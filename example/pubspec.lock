@@ -62,13 +62,13 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
-  flutter_nfc_acs:
+  flutter_nfc_acs2:
     dependency: "direct main"
     description:
       path: ".."
       relative: true
     source: path
-    version: "0.2.1"
+    version: "0.2.2"
   flutter_plugin_android_lifecycle:
     dependency: transitive
     description:
